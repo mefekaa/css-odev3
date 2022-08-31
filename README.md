@@ -1,6 +1,6 @@
 # Css Ucuncu Odev
 
-![image](img/screenshot.png)
+![image](assets/screenshot.png)
 
 [Patika Hesabıma Ulaşmak İçin Tıklayın](https://app.patika.dev/mfatihh)
 
